@@ -1,4 +1,4 @@
-_G.auto = false
+_G.auto = true
 while _G.auto  do wait(4) 
 	
 
