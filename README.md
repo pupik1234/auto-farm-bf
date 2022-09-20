@@ -1,5 +1,4 @@
 _G.auto = true
-
 while _G.auto  do wait(4) 
 	
 
@@ -50,7 +49,51 @@ local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPa
 local TweenService = game:GetService("TweenService")
 local Tw = TweenService:Create(game.Players.LocalPlayer.Character.HumanoidRootPart,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.Out,0,false,0 ),
 {CFrame = CFrame.new(1306.60754, 16.2735634, 1567.68677, -0.00938363373, -2.09850004e-08, -0.999955952, 9.14980447e-08, 1, -2.18445475e-08, 0.999955952, -9.16989933e-08, -0.00938363373)}):Play()
+wait(20)
+
+
+
+
+
+
+
+
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
